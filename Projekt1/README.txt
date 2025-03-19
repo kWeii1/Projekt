@@ -1,0 +1,1 @@
+Folder images należy włozyc do folderu public 
